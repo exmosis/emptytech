@@ -1,2 +1,2 @@
-_intro.md
+intro.md
 sections/personal_infrastructure/_intro.md
