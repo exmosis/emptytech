@@ -1,9 +1,7 @@
 ---
-title: Empty Technology: A Manifesto
+layout: page
+title: Empty Technology - A Manifesto
 ---
-
-Empty Technology
-================
 
 "I'm a little teapot  
  short and stout  
