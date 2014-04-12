@@ -1,2 +1,2 @@
 intro.md
-sections/personal_infrastructure/_intro.md
+sections/nomad_infrastructures/_intro.md
