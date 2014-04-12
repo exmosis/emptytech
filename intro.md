@@ -3,7 +3,7 @@ layout: page
 ---
 
 Empty Technology - A Manifesto
-=========================
+==============================
 
 "I'm a little teapot  
  short and stout  
