@@ -1,4 +1,9 @@
-Post-FOMO rituals.
+---
+layout: page
+---
+
+Post-FOMO rituals
+=================
 
 The difference between intrusion and integration is a matter of perspective. Whether it is desired or not.
 
