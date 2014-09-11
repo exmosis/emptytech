@@ -5,7 +5,7 @@ layout: page
 Empty Technology
 ================
 
-* [Empty Technology: A Manifesto]({{ site.url }}/intro.html)
+* [Empty Technology: A Manifesto](intro.html)
 * [Copper Dust: An intro of sorts]({{ site.url }}/copper_dust_an_intro.html)
 * Articles
     * [Post-FOMO Rituals]({{ site.url }}/sections/articles/post_fomo_rituals.html)
