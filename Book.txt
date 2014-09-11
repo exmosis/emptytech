@@ -1,2 +1,5 @@
+copper_dust_an_intro.md
 intro.md
-sections/nomad_infrastructures/_intro.md
+sections/articles/post_fomo_rituals.md
+sections/nomad_infrastructures/0_intro.md
+sections/nomad_infrastructures/scribe.md
